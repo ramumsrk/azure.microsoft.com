@@ -1,0 +1,2 @@
+# Limits, quotas, and constraints
+[limits, quotas, and constraints](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits) [customer service](https://azure.microsoft.com/en-us/support/)
